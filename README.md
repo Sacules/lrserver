@@ -20,13 +20,13 @@ Multiple servers can be instantiated, and each can support multiple connections.
 ### Get Package ###
 
 ```bash
-go get github.com/jaschaephraim/lrserver
+go get github.com/Sacules/lrserver
 ```
 
 ### Import Package ###
 
 ```go
-import "github.com/jaschaephraim/lrserver"
+import "github.com/Sacules/lrserver"
 ```
 
 ### Instantiate Server ###
@@ -60,7 +60,7 @@ import (
     "log"
     "net/http"
 
-    "github.com/jaschaephraim/lrserver"
+    "github.com/Sacules/lrserver"
     "gopkg.in/fsnotify.v1"
 )
 
