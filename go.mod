@@ -1,4 +1,4 @@
-module github.com/jaschaephraim/lrserver
+module github.com/Sacules/lrserver
 
 go 1.19
 
